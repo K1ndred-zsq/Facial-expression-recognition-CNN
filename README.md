@@ -132,7 +132,7 @@ def test(model):
 [![pCk4GpF.png](https://s1.ax1x.com/2023/06/08/pCk4GpF.png)](https://imgse.com/i/pCk4GpF)
 
 # 5 附件说明
-1. 模型仅保存最后一代，即emo12.pth 
+1. 模型仅保存最后一代，即emo12.pth （太大了没有上传）
 3. archive文件夹为数据集文件夹
 4. rubbish.py实现实时展示和识别
 5. rubbish2.py实现实时展示和截图识别
